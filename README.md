@@ -38,6 +38,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 #### C++
 - [FMI++](https://github.com/fmipp/fmipp) - C++ library for import and export of FMUs. [BSD]
 - [FMI4cpp](https://github.com/NTNU-IHB/FMI4cpp) - FMI 2.0 implementation written in modern C++. [MIT]
+- [FMU4cpp](https://github.com/Ecos-platform/fmu4cpp) - CMake/Github Actions template project for building FMUs in C++. [MIT]
 
 #### Python
 - [PyFMI](https://github.com/modelon-community/pyfmi) - Python package for loading and interacting with FMUs, based on the FMI Library. [LGPL]
