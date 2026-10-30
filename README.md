@@ -71,6 +71,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 For the official list of tools that support FMI 2, check http://fmi-standard.org/tools/ .
 
 - [λ-Sim](https://github.com/mbonvini/LambdaSim) - Tool that converts FMU simulation models into REST APIs. [MIT]
+- [Dyad](https://juliahub.com/products/dyad) - Modeling language and toolchain for physical systems. [Exports binary FMI 2.0 and 3.0 FMUs](https://help.juliahub.com/dyad/stable/analyses/fmugeneration.html) for Model Exchange and Co-Simulation; no source FMUs or cross-compilation, and only Float64/Real interface variables. [Commercial]
 - [Dymola](https://www.dymola.com) - A modeling and simulation environment for Modelica, with full support for FMI. [Commercial]
 - [FMIGo!](http://www.fmigo.net/) - A set of tools for dealing with the FMI and SSP standards. [MIT]
 - [FMITerminalBlock](https://github.com/AIT-IES/FMITerminalBlock) -  Two way interface between the FMI and IEC 61499-based controllers. [BSD]
